@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bdxy-community-base/bdxy-community-base.iml" filepath="$PROJECT_DIR$/bdxy-community-base/bdxy-community-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bdxy-community-base/bdxy-community-base-api/bdxy-community-base-api.iml" filepath="$PROJECT_DIR$/bdxy-community-base/bdxy-community-base-api/bdxy-community-base-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bdxy-community-base/bdxy-community-base-core/bdxy-community-base-core.iml" filepath="$PROJECT_DIR$/bdxy-community-base/bdxy-community-base-core/bdxy-community-base-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bdxy-community-base/bdxy-community-base-tools/bdxy-community-base-tools.iml" filepath="$PROJECT_DIR$/bdxy-community-base/bdxy-community-base-tools/bdxy-community-base-tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bdxy-community-module-system/bdxy-community-module-system.iml" filepath="$PROJECT_DIR$/bdxy-community-module-system/bdxy-community-module-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bdxy-community-parent.iml" filepath="$PROJECT_DIR$/bdxy-community-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bdxy-community-starter/bdxy-community-starter.iml" filepath="$PROJECT_DIR$/bdxy-community-starter/bdxy-community-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bdxy-community-starter/bdxy-community-starter-redis/bdxy-community-starter-redis.iml" filepath="$PROJECT_DIR$/bdxy-community-starter/bdxy-community-starter-redis/bdxy-community-starter-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bdxy-community-base/bdxy-community-base-api/bdxy-system-local-api/bdxy-system-local-api.iml" filepath="$PROJECT_DIR$/bdxy-community-base/bdxy-community-base-api/bdxy-system-local-api/bdxy-system-local-api.iml" />
+    </modules>
+  </component>
+</project>
